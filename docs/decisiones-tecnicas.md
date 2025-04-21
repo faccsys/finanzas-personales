@@ -1,0 +1,5 @@
+- Framework Frontend: React
+- Framework Backend: Node.js + Express
+- Base de datos: MySQL
+- Librería de gráficas: Chart.js
+- Autenticación: JWT
